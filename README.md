@@ -1,5 +1,5 @@
 # BCI-2000
-Matlab Code for Distinguishing motor execution from motor movements.
+Matlab Code for Distinguishing motor execution from movement imagination.
 
 This work is published here https://ieeexplore.ieee.org/document/7459015
 
